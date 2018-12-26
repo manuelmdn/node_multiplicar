@@ -1,0 +1,15 @@
+{
+  "name": "03-node-bases",
+  "version": "1.0.0",
+  "description": "Paquete que devuelve en un archivo una tabla de multiplicar de un número",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Manuel Medina <madmedina88@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "colors": "^1.3.3",
+    "yargs": "^12.0.5"
+  }
+}
